@@ -14,6 +14,7 @@ echo WINDOWS
 echo ERROR OCCEREED
 :iedos
 echo connecting to GOOGLE.COM
+ping google.com
 echo DONE
 echo GOOGLE
 echo Start Searching
