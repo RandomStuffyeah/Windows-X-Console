@@ -16,6 +16,13 @@ goto command
 echo | set /p=C:\
 Set /p command=
 if %command% == iexplore goto iedos
+if %command% == bsod goto bsod
+:bsod
+cls
+:bsod2
+echo WINDOWS
+echo ERROR OCCEREED
+goto bsod2
 :iedos
 echo connecting to GOOGLE.COM
 ping google.com >> null
