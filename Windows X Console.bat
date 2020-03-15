@@ -1,4 +1,4 @@
-@title Windows X-Console Beta 1995 - Microsoft Virtual Console
+@title Windows X-Console - Microsoft Virtual Console
 @echo off
 pause
 :command
