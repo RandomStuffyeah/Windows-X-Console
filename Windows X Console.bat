@@ -30,3 +30,5 @@ echo Start Searching
 Set /p text=
 if %text% == exit goto console
 if %text% == mac goto bsod
+if %text% == linux goto bsod
+if %text% == android goto bsod
